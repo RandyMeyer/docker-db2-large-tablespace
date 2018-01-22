@@ -1,4 +1,4 @@
-#db2-large-tablespace
+# db2-large-tablespace
 
 DB2 instance with large table space (32k)
 
