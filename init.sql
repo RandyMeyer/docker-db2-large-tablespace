@@ -1,5 +1,5 @@
 create database guest USING CODESET UTF-8 TERRITORY US COLLATE USING SYSTEM PAGESIZE 32768 @
-connect to guest user guest using guest @
+connect to guest user guest using guestGU3sT @
 -- connect as db2inst1
 connect to guest @
 
