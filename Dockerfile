@@ -5,7 +5,7 @@ COPY  entrypoint.sh /entrypoint.sh
 
 RUN \
 useradd guest &&\
-echo "guest:guest" | chpasswd &&\
+echo "guest:guestGU3sT" | chpasswd &&\
 chmod 755 /entrypoint.sh
 
 EXPOSE 50000
